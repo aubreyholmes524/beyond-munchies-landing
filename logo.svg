@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="ufo" x1="0" x2="1">
+      <stop offset="0" stop-color="#35e8ff"/>
+      <stop offset=".45" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ff7a18"/>
+    </linearGradient>
+    <linearGradient id="word" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff7a18"/>
+      <stop offset=".38" stop-color="#ffd84d"/>
+      <stop offset=".72" stop-color="#35e8ff"/>
+      <stop offset="1" stop-color="#8cff3f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="46" fill="#12002f"/>
+  <g transform="translate(80 90)">
+    <circle cx="125" cy="125" r="110" fill="#ffffff"/>
+    <circle cx="125" cy="125" r="94" fill="#160044"/>
+    <ellipse cx="125" cy="143" rx="130" ry="42" fill="url(#ufo)"/>
+    <path d="M65 137 C90 82 160 82 185 137Z" fill="#e8fbff"/>
+    <circle cx="85" cy="152" r="11" fill="#8cff3f"/>
+    <circle cx="125" cy="158" r="11" fill="#ffd84d"/>
+    <circle cx="165" cy="152" r="11" fill="#ff3fd1"/>
+    <path d="M125 38 l30 55 62 10 -44 44 10 63 -58 -29 -57 29 10 -63 -45 -44 63 -10z" fill="#ffd84d"/>
+  </g>
+  <text x="360" y="170" font-family="Arial Black, Arial" font-size="84" font-weight="900" fill="#ffffff">BEYOND</text>
+  <text x="360" y="275" font-family="Arial Black, Arial" font-size="102" font-weight="900" fill="url(#word)">MUNCHIES</text>
+  <text x="368" y="330" font-family="Arial, sans-serif" font-size="31" font-weight="800" fill="#35e8ff" letter-spacing="1.6">PUTTING EVERY NEIGHBORHOOD ON THE MAP</text>
+</svg>
